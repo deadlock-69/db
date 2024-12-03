@@ -1,0 +1,157 @@
+{
+  "heroes": [
+    {
+      "name": "Abrams",
+      "counter_items": [
+        "Decay",
+        "Toxic Bullets",
+        "Healbane"
+      ]
+    },
+    {
+      "name": "Bebop",
+      "counter_items": [
+        "Debuff Remover",
+        "Ethereal Shift",
+        "Reactive Barrier"
+      ]
+    },
+    {
+      "name": "Dynamo",
+      "counter_items": [
+        "Reactive Barrier",
+        "Knockdown",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Grey Talon",
+      "counter_items": [
+        "Knockdown"
+      ]
+    },
+    {
+      "name": "Haze",
+      "counter_items": [
+        "Return Fire",
+        "Metal Skin",
+        "Knockdown",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Infernus",
+      "counter_items": [
+        "Debuff Reducer",
+        "Slowing Hex",
+        "Healbane"
+      ]
+    },
+    {
+      "name": "Ivy",
+      "counter_items": [
+        "Knockdown"
+      ]
+    },
+    {
+      "name": "Kelvin",
+      "counter_items": [
+        "Ethereal Shift",
+        "Healbane"
+      ]
+    },
+    {
+      "name": "Lady Geist",
+      "counter_items": [
+        "Silence Glyph",
+        "Healbane",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Lash",
+      "counter_items": [
+        "Slowing Hex",
+        "Silence Glyph"
+      ]
+    },
+    {
+      "name": "McGinnis",
+      "counter_items": [
+        "Monster Rounds"
+      ]
+    },
+    {
+      "name": "Mirage",
+      "counter_items": []
+    },
+    {
+      "name": "Mo & Krill",
+      "counter_items": [
+        "Reactive Barrier"
+      ]
+    },
+    {
+      "name": "Paradox",
+      "counter_items": [
+        "Reactive Barrier"
+      ]
+    },
+    {
+      "name": "Pocket",
+      "counter_items": [
+        "Debuff Reducer",
+        "Debuff Remover",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Seven",
+      "counter_items": [
+        "Knockdown"
+      ]
+    },
+    {
+      "name": "Shiv",
+      "counter_items": [
+        "Healbane",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Vindicta",
+      "counter_items": [
+        "Knockdown",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Viscous",
+      "counter_items": [
+        "Silence Glyph"
+      ]
+    },
+    {
+      "name": "Warden",
+      "counter_items": [
+        "Extra Stamina",
+        "Slowing Hex"
+      ]
+    },
+    {
+      "name": "Wraith",
+      "counter_items": [
+        "Reactive Barrier",
+        "Return Fire",
+        "Metal Skin"
+      ]
+    },
+    {
+      "name": "Yamato",
+      "counter_items": [
+        "Knockdown",
+        "Silence Glyph"
+      ]
+    }
+  ]
+}
